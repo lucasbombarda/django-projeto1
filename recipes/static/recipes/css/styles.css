@@ -270,3 +270,26 @@ h6 {
     transform: scale(1);
     box-shadow: -5px 5px 15px rgba(0, 0, 0, .2);
 }
+
+.preparation-steps h1,
+.preparation-steps h2,
+.preparation-steps h3,
+.preparation-steps h4,
+.preparation-steps h5,
+.preparation-steps h6,
+.preparation-steps p,
+.preparation-steps ul,
+.preparation-steps ol,
+.preparation-steps pre{
+    margin: 2rem 0;
+}
+
+.preparation-steps ul,
+.preparation-steps ol{
+    margin: 2rem;
+    padding: 0 2rem;
+}
+
+.center {
+    text-align: center;
+}
